@@ -1,0 +1,16 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin-top: 80px;
+}
+
+#box {
+  width: 300px;
+  height: 150px;
+  background: red;
+  margin: auto;
+  line-height: 150px;
+  color: white;
+  cursor: pointer;
+  user-select: none;
+}
